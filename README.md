@@ -1,3 +1,5 @@
+*Migrated to [Codeberg.org](https://codeberg.org/tyybbi/notes)*
+
 # Notes
 
 Miscellaneous notes mainly dealing with all things GNU/Linux.
